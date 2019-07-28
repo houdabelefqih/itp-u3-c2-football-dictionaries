@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7799a874-9237-482f-b279-c969f1ea14ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/football_dictionaries/assignment_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/football_dictionaries/assignment_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football_dictionaries/assignment_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/football_dictionaries/assignment_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/football_dictionaries/assignment_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="160">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/football_dictionaries/assignment_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -78,6 +87,7 @@
         <option value="$PROJECT_DIR$/tests.py" />
         <option value="$PROJECT_DIR$/football_dictionaries/assignment_1.py" />
         <option value="$PROJECT_DIR$/football_dictionaries/assignment_2.py" />
+        <option value="$PROJECT_DIR$/football_dictionaries/assignment_3.py" />
       </list>
     </option>
   </component>
@@ -181,6 +191,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="assignment_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="itp-u3-c2-football-dictionaries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/football_dictionaries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/football_dictionaries/assignment_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="itp-u3-c2-football-dictionaries" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,9 +253,11 @@
       <item itemvalue="Python.tests" />
       <item itemvalue="Python tests.pytest for tests" />
       <item itemvalue="Python.assignment_2" />
+      <item itemvalue="Python.assignment_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment_3" />
         <item itemvalue="Python.assignment_2" />
         <item itemvalue="Python.assignment_1" />
         <item itemvalue="Python.tests" />
@@ -245,34 +278,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_tests - 2019.07.27 at 17h 45m 20s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 12h 22m 59s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_tests - 2019.07.27 at 17h 46m 48s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 12h 55m 32s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_tests - 2019.07.27 at 17h 54m 21s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 12h 56m 07s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_tests - 2019.07.27 at 17h 54m 52s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 12h 56m 19s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_tests - 2019.07.27 at 17h 55m 14s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 12h 59m 44s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_tests - 2019.07.28 at 11h 33m 02s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 13h 03m 17s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_tests - 2019.07.28 at 11h 34m 28s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 13h 15m 34s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_tests - 2019.07.28 at 11h 35m 31s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 13h 16m 46s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_tests - 2019.07.28 at 11h 39m 13s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 13h 17m 40s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_tests - 2019.07.28 at 11h 50m 46s.xml">
+    <history-entry file="pytest_for_tests - 2019.07.28 at 13h 19m 01s.xml">
       <configuration name="pytest for tests" configurationId="tests" />
     </history-entry>
   </component>
@@ -294,7 +327,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.50094163" side_tool="true" weight="0.24945612" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49963742" visible="true" weight="0.4857497" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49963742" visible="true" weight="0.27757126" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,13 +347,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/football_dictionaries/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/football_dictionaries/assignment_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Warm Up Activities.ipynb">
       <provider selected="true" editor-type-id="text-editor">
@@ -375,8 +401,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/football_dictionaries/assignment_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="160">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/football_dictionaries/assignment_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
